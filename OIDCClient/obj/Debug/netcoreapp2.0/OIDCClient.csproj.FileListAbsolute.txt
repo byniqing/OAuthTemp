@@ -1,0 +1,11 @@
+F:\core\StudyCore\OIDCClient\bin\Debug\netcoreapp2.0\OIDCClient.deps.json
+F:\core\StudyCore\OIDCClient\bin\Debug\netcoreapp2.0\OIDCClient.runtimeconfig.json
+F:\core\StudyCore\OIDCClient\bin\Debug\netcoreapp2.0\OIDCClient.runtimeconfig.dev.json
+F:\core\StudyCore\OIDCClient\bin\Debug\netcoreapp2.0\OIDCClient.dll
+F:\core\StudyCore\OIDCClient\obj\Debug\netcoreapp2.0\OIDCClient.csproj.CoreCompileInputs.cache
+F:\core\StudyCore\OIDCClient\obj\Debug\netcoreapp2.0\OIDCClient.AssemblyInfoInputs.cache
+F:\core\StudyCore\OIDCClient\obj\Debug\netcoreapp2.0\OIDCClient.AssemblyInfo.cs
+F:\core\StudyCore\OIDCClient\bin\Debug\netcoreapp2.0\OIDCClient.pdb
+F:\core\StudyCore\OIDCClient\obj\Debug\netcoreapp2.0\OIDCClient.dll
+F:\core\StudyCore\OIDCClient\obj\Debug\netcoreapp2.0\OIDCClient.pdb
+F:\core\StudyCore\OIDCClient\obj\Debug\netcoreapp2.0\OIDCClient.csprojAssemblyReference.cache
